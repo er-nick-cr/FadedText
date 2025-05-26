@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Faded Text</string>
+    <string name="app_demo">Line wrapping behavior test - this sufficiently long sentence will demonstrate how your widget handles text overflow and word breaking across multiple lines while maintaining readability.</string>
+</resources>
